@@ -1,77 +1,77 @@
 - id: read_more
-  translation: Lire la suite
-
+  translation: Per saperne di più
+  
 - id: contact_form
-  translation: Formulaire de contact
+  translation: Modulo di contatto
 
 - id: send
-  translation: envoyer
+  translation: Invia
 
 - id: contact_info
-  translation: Info de contact
+  translation: Informazioni di contatto
 
 - id: subscribe_newsletter
-  translation: Abonnement à l’infolettre
+  translation: Iscrizione alla newsletter
 
 - id: subscribe
-  translation: S’abonner
+  translation: Abbonarsi
 
 - id: contact_us
-  translation: Nous joindre
+  translation: Contattaci
 
 - id: latest_article
-  translation: Dernier article
-
+  translation: Ultimo articolo
+  
 - id: categories
-  translation: Catégories
+  translation: Categorie
 
 - id: tags
-  translation: Étiquettes
+  translation: Etichette
 
 - id: see_all
-  translation: Tout voir
+  translation: Vedi Tutto
 
 - id: apply_now
-  translation: Postuler maintenant
+  translation: Candidati ora
 
 - id: posted_by
-  translation: Publié par
+  translation: Pubblicato da
 
 - id: date
-  translation: Date
+  translation: Data
 
 - id: time
-  translation: heure
+  translation: ora
 
 - id: category
-  translation: Catégorie
+  translation: Categorie
 
 - id: related_course
-  translation: Cours lié
+  translation: Corso correlato
 
 - id: duration
-  translation: durée
+  translation: durata
 
 - id: weekly
-  translation: hebdomadairement
+  translation: settimanalmente
 
 - id: fee
-  translation: frais
+  translation: onorario
 
 - id: teacher
-  translation: enseignant·e
+  translation: insegnante
 
 - id: location
-  translation: emplacement
+  translation: ubicazione
 
 - id: entry_fee
-  translation: frais d’entrée
+  translation: ingressi
 
 - id: event_speaker
-  translation: Présentateur•trice·s
+  translation: Presentatori
 
 - id: more_event
-  translation: Plus d’événements
+  translation: Altri eventi
 
 - id: join
   translation: Unisciti
