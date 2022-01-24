@@ -129,7 +129,6 @@ weight = 4
 name = "Contact"
 url = "contact"
 weight = 5
-
 [Languages.it]
 contentDir = "content/italian"
 copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
@@ -140,7 +139,7 @@ weight = 3
 [[Languages.it.menu.footer]]
 name = "teacher"
 url = "teacher"
-[[Languages.fr.menu.footer]]
+[[Languages.it.menu.footer]]
 name = "notice"
 url = "notice"
 [[Languages.it.menu.footer]]
@@ -149,7 +148,7 @@ url = "event"
 [[Languages.it.menu.footer]]
 name = "scholarship"
 url = "scholarship"
-[[Languages.fr.menu.footer]]
+[[Languages.it.menu.footer]]
 name = "research"
 url = "research"
 [[Languages.it.menu.main]]
@@ -192,7 +191,6 @@ weight = 4
 name = "Contact"
 url = "contact"
 weight = 5
-
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
