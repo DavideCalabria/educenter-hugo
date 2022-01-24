@@ -137,58 +137,58 @@ home = "Home"
 languageCode = "it-it"
 languageName = "It"
 weight = 3
-[[Languages.fr.menu.footer]]
+[[Languages.it.menu.footer]]
 name = "teacher"
 url = "teacher"
 [[Languages.fr.menu.footer]]
 name = "notice"
 url = "notice"
-[[Languages.fr.menu.footer]]
+[[Languages.it.menu.footer]]
 name = "event"
 url = "event"
-[[Languages.fr.menu.footer]]
+[[Languages.it.menu.footer]]
 name = "scholarship"
 url = "scholarship"
 [[Languages.fr.menu.footer]]
 name = "research"
 url = "research"
-[[Languages.fr.menu.main]]
+[[Languages.it.menu.main]]
 name = "Chi siamo"
 url = "about"
 weight = 1
-[[Languages.fr.menu.main]]
+[[Languages.it.menu.main]]
 name = "Corsi"
 url = "course"
 weight = 2
-[[Languages.fr.menu.main]]
+[[Languages.it.menu.main]]
 hasChildren = true
 name = "Pages"
 weight = 3
-[[Languages.fr.menu.main]]
+[[Languages.it.menu.main]]
 name = "teacher"
 parent = "Pages"
 url = "teacher"
-[[Languages.fr.menu.main]]
+[[Languages.it.menu.main]]
 name = "notice"
 parent = "Pages"
 url = "notice"
-[[Languages.fr.menu.main]]
+[[Languages.it.menu.main]]
 name = "Evento"
 parent = "Pages"
 url = "event"
-[[Languages.fr.menu.main]]
+[[Languages.it.menu.main]]
 name = "Corso"
 parent = "Pages"
 url = "scholarship"
-[[Languages.fr.menu.main]]
+[[Languages.it.menu.main]]
 name = "research"
 parent = "Pages"
 url = "research"
-[[Languages.fr.menu.main]]
+[[Languages.it.menu.main]]
 name = "blog"
 url = "blog"
 weight = 4
-[[Languages.fr.menu.main]]
+[[Languages.it.menu.main]]
 name = "Contact"
 url = "contact"
 weight = 5
