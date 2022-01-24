@@ -1,0 +1,110 @@
+- id: read_more
+  translation: Lire la suite
+
+- id: contact_form
+  translation: Formulaire de contact
+
+- id: send
+  translation: envoyer
+
+- id: contact_info
+  translation: Info de contact
+
+- id: subscribe_newsletter
+  translation: Abonnement à l’infolettre
+
+- id: subscribe
+  translation: S’abonner
+
+- id: contact_us
+  translation: Nous joindre
+
+- id: latest_article
+  translation: Dernier article
+
+- id: categories
+  translation: Catégories
+
+- id: tags
+  translation: Étiquettes
+
+- id: see_all
+  translation: Tout voir
+
+- id: apply_now
+  translation: Postuler maintenant
+
+- id: posted_by
+  translation: Publié par
+
+- id: date
+  translation: Date
+
+- id: time
+  translation: heure
+
+- id: category
+  translation: Catégorie
+
+- id: related_course
+  translation: Cours lié
+
+- id: duration
+  translation: durée
+
+- id: weekly
+  translation: hebdomadairement
+
+- id: fee
+  translation: frais
+
+- id: teacher
+  translation: enseignant·e
+
+- id: location
+  translation: emplacement
+
+- id: entry_fee
+  translation: frais d’entrée
+
+- id: event_speaker
+  translation: Présentateur•trice·s
+
+- id: more_event
+  translation: Plus d’événements
+
+- id: join
+  translation: Unisciti
+
+- id: enter_email
+  translation: Inserisci il tuo indirizzo email...
+
+- id: company
+  translation: Società
+
+- id: links
+  translation: links
+
+- id: courses
+  translation: Corsi
+
+- id: new_notice
+  translation: nuovo avviso
+
+- id: call
+  translation: chiamare
+
+- id: email
+  translation: email
+
+- id: all
+  translation: Tutti
+
+- id: interest
+  translation: RIEPILOGO DELLE ATTIVITÀ/INTERESSI
+
+- id: our_teachers
+  translation: I nostri insegnanti
+
+- id: download
+  translation: Scarica
