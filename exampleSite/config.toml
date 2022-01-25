@@ -209,7 +209,7 @@ weight = 2
 home = "Accueil"
 # copyright
 copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
-
+url = ""
 
 
 ################### French navigation ####################
