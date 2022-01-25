@@ -4,7 +4,7 @@ disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Rastafarian Educenter  "
+title = "Rastafarian Educenter"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
@@ -146,7 +146,7 @@ url = "notice"
 name = "eventi"
 url = "event"
 [[Languages.it.menu.footer]]
-name = "scholarship"
+name = "borsa di studio"
 url = "scholarship"
 [[Languages.it.menu.footer]]
 name = "ricerca"
@@ -176,7 +176,7 @@ name = "Evento"
 parent = "Pagine"
 url = "event"
 [[Languages.it.menu.main]]
-name = "Corso"
+name = "Borsa di studio"
 parent = "Pagine"
 url = "scholarship"
 [[Languages.it.menu.main]]
