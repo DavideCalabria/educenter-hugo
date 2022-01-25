@@ -132,7 +132,7 @@ weight = 5
 [Languages.it]
 contentDir = "content/italian"
 copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
-home = "Home"
+home = "Casa"
 languageCode = "it-it"
 languageName = "It"
 weight = 3
