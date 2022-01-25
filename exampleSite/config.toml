@@ -165,30 +165,30 @@ name = "Pagine"
 weight = 3
 [[Languages.it.menu.main]]
 name = "teacher"
-parent = "Pages"
+parent = "Pagine"
 url = "teacher"
 [[Languages.it.menu.main]]
 name = "notice"
-parent = "Pages"
+parent = "Pagine"
 url = "notice"
 [[Languages.it.menu.main]]
 name = "Evento"
-parent = "Pages"
+parent = "Pagine"
 url = "event"
 [[Languages.it.menu.main]]
 name = "Corso"
-parent = "Pages"
+parent = "Pagine"
 url = "scholarship"
 [[Languages.it.menu.main]]
-name = "research"
-parent = "Pages"
+name = "ricerca"
+parent = "Pagine"
 url = "research"
 [[Languages.it.menu.main]]
 name = "blog"
 url = "blog"
 weight = 4
 [[Languages.it.menu.main]]
-name = "Contact"
+name = "Contatti"
 url = "contact"
 weight = 5
 [params]
