@@ -74,6 +74,7 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+url = "https://rastedu.netlify.app/fr/"
 [[Languages.fr.menu.footer]]
 name = "teacher"
 url = "teacher"
@@ -136,6 +137,7 @@ home = "Casa"
 languageCode = "it-it"
 languageName = "It"
 weight = 3
+url = "https://rastedu.netlify.app/it/"
 [[Languages.it.menu.footer]]
 name = "insegnante"
 url = "teacher"
