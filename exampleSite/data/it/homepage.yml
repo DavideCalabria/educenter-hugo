@@ -43,22 +43,22 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Notizie sulla borsa di studio "
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
     # feature item loop
-    - name : "Our Notice Board"
+    - name : "La nostra bacheca "
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
     # feature item loop
-    - name : "Our Achievements"
+    - name : "I nostri successi"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
     # feature item loop
-    - name : "Admission Now"
+    - name : "Ammissione ora "
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
@@ -66,7 +66,7 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "Circa Educenter"
+  title : "Circa RasEduCenter"
   image : "images/about/about-us.jpg"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
 
@@ -87,7 +87,7 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Clicca per partecipare al nostro Avanzato"
+  subtitle : "Clicca per partecipare al nostro avanzato"
   title : "Formazione in Advannce Networking"
   button:
     enable : true
@@ -143,5 +143,5 @@ funfacts:
 ############################# blog ################################
 blog:
   enable : true
-  title : "Ultime Notizie"
+  title : "Ultime notizie"
   # blog item comes from "content/**/blog" folder.
