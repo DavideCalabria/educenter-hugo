@@ -1,4 +1,4 @@
-<h1 align=center>Educenter Hugo | <a target="_blank" href="https://demo.gethugothemes.com/educenter" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Feducenter%2F">Page Speed (86%)</a></h1>
+<h1 align=center>Educenter Hugo Italian Version | <a target="_blank" href="https://demo.gethugothemes.com/educenter" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Feducenter%2F">Page Speed (86%)</a></h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.70.0" alt="Contributors">
