@@ -17,7 +17,7 @@ duration: "06 mesi"
 # weekly
 weekly: "03 ore"
 # course fee
-fee: "A partire da 699€"
+fee: "Da 699€"
 # apply url
 apply_url : "#"
 # type
