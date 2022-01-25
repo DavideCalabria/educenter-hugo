@@ -204,7 +204,7 @@ url = "research"
 [Languages.fr]
 languageName = "Fr"
 languageCode = "fr-fr"
-contentDir = "content/french"
+contentDir = ""
 weight = 2
 home = "Accueil"
 # copyright
