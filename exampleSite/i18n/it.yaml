@@ -53,10 +53,10 @@
   translation: durata
 
 - id: weekly
-  translation: settimanalmente
+  translation: a settimana
 
 - id: fee
-  translation: onorario
+  translation: costo
 
 - id: teacher
   translation: insegnante
