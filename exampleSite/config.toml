@@ -164,11 +164,11 @@ hasChildren = true
 name = "Pagine"
 weight = 3
 [[Languages.it.menu.main]]
-name = "teacher"
+name = "insegnante"
 parent = "Pagine"
 url = "teacher"
 [[Languages.it.menu.main]]
-name = "notice"
+name = "avviso"
 parent = "Pagine"
 url = "notice"
 [[Languages.it.menu.main]]
