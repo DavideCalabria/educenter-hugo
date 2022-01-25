@@ -137,19 +137,19 @@ languageCode = "it-it"
 languageName = "It"
 weight = 3
 [[Languages.it.menu.footer]]
-name = "teacher"
+name = "insegnante"
 url = "teacher"
 [[Languages.it.menu.footer]]
-name = "notice"
+name = "avviso"
 url = "notice"
 [[Languages.it.menu.footer]]
-name = "event"
+name = "eventi"
 url = "event"
 [[Languages.it.menu.footer]]
 name = "scholarship"
 url = "scholarship"
 [[Languages.it.menu.footer]]
-name = "research"
+name = "ricerca"
 url = "research"
 [[Languages.it.menu.main]]
 name = "Chi siamo"
@@ -161,7 +161,7 @@ url = "course"
 weight = 2
 [[Languages.it.menu.main]]
 hasChildren = true
-name = "Pages"
+name = "Pagine"
 weight = 3
 [[Languages.it.menu.main]]
 name = "teacher"
