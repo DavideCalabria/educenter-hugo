@@ -71,7 +71,7 @@ weight = 5
 contentDir = "content/french"
 copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
 home = "Accueil"
-languageCode = "fr-fr"
+languageCode = "fr"
 languageName = "Fr"
 weight = 2
 [[Languages.fr.menu.footer]]
@@ -133,7 +133,7 @@ weight = 5
 contentDir = "content/italian"
 copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
 home = "Casa"
-languageCode = "it-it"
+languageCode = "it"
 languageName = "It"
 weight = 3
 [[Languages.it.menu.footer]]
