@@ -15,9 +15,9 @@ teacher: "Davide Calabria"
 # duration
 duration: "04 mesi"
 # weekly
-weekly: "01 ore"
+weekly: "02 ore"
 # course fee
-fee: "Da: 40€"
+fee: "Da: 80€"
 # apply url
 apply_url : "https://rastedu.netlify.app/it/contact/"
 # type
@@ -27,48 +27,25 @@ type: "course"
 
 ### A proposito del corso
 
-Un programma psicofisico divertente, per elevare la propria coscienza fino alla cima, sperimentando l'esatsi zen e l'unione con il creato e le energie cosmiche.  Per uscire dal subdolo labirito di Babilonia, laicamente e pigramente, dimenticando i sensi di colpa e riscoprendo il naturale ruolo avvincente della vita. E' solo questione d'arrendersi alla gravità, lasciandosi andare a piccoli passi, sorridendo. Con l'abbandono ci si rilassa, si respira meglio e ci si apre al piacere di vivere, senza smettere di essere intelligenti. E nessuno ti chiede d'avere fiducia in qualcuno o qualcosa. One Yoga si basa sulla sperimenta diretta, con esercizi che danno risultati nell'arco di 5 minuti. Tra le altre cose, migliorerai la tua abilità nel prendere gli oggetti al volo, scoprirai i vantaggi del movimento rellantato, come diventare più elestico e il re dello sbadiglio, guarire dal mal d'auto, sentire il calore delle mani, avere un pustura ottimista e disegnare istintivamente.       
-
-
-
-
-
-
-
-
-
-
-
+Un programma psicofisico divertente, per elevare la propria coscienza fino alla cima, sperimentando l'esatsi zen e l'unione con il creato e le energie cosmiche.  Per uscire dal subdolo labirito di Babilonia, laicamente e pigramente, dimenticando i sensi di colpa e riscoprendo il naturale ruolo avvincente della vita. E' solo questione d'arrendersi alla gravità, lasciandosi andare a piccoli passi, sorridendo. Con l'abbandono ci si rilassa, si respira meglio e ci si apre al piacere di vivere, senza smettere di essere intelligenti. E nessuno ti chiede d'avere fiducia in qualcuno o qualcosa. One Yoga si basa sulla sperimenta diretta, con esercizi che danno risultati nell'arco di 5 minuti. Tra le altre cose, migliorerai la tua abilità nel prendere gli oggetti al volo, scoprirai i vantaggi del movimento rellantato, come diventare più elestico e il re dello sbadiglio, guarire dal mal d'auto, sentire il calore delle mani, avere un pustura ottimista e disegnare istintivamente. Diventerai più sexy, imparerai a trovare il clitoride, svitare il mal di testa e sfruttura la tecnica degli indiani d'america della funivia di luce, a guardare senza identificare, ascoltare la tua voce naturale, disartocolarti, a guardare senza identificare, a cantare con corpo, a salutare con il respiro, ad addormentarti con il biosonnifero. Ed ancora, a sconfiggere le vertigini, muovere il muscolo pubococcigeo per un tantra felice e altri fantastici esperimenti.
 
 
 ### Prerequisiti
 
 
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+* Corso adatto a tutti, dai bambini agli anziani.
+* Desiderio di divertirsi e sperimentare.
 
 
 ### Come fare la domanda
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
+* Clicca sul pulsante "Canditati ora" ed invia una mail dal modulo di contatto.
+* Specifica l'orario di tuo gradimento per le lezioni.
+* Specifica se preferisci la lezione online o di persona.
+* Ti risponderemo nel più breve tempo possibile
+
 
 
 ### Commissioni e finanziamenti 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Il costo è di 10€ all'ora. Al momento non sono previsti finanziamenti, ma è possibile per i fratelli in difficoltà economiche chiedere uno sconto attraverso la domanda.
