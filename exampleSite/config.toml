@@ -1,4 +1,4 @@
-baseURL = "https://rastedu.netlify.app/"
+baseURL = "https://rastedu.netlify.app/it/"
 disableLanguages = ["fr"]
 disqusShortname = "educenter"
 paginate = "6"
