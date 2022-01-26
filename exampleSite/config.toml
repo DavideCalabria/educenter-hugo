@@ -1,75 +1,10 @@
 baseURL = "https://rastedu.netlify.app/"
-disableLanguages = ["fr"]
+disableLanguages = ["en", "fr"]
 disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
 title = "Rastafarian Educenter"
-
-[Languages.it]
-contentDir = "content/italian"
-copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
-home = "Casa"
-languageCode = "it-it"
-languageName = "It"
-weight = 1
-[[Languages.it.menu.footer]]
-name = "insegnante"
-url = "teacher"
-[[Languages.it.menu.footer]]
-name = "avviso"
-url = "notice"
-[[Languages.it.menu.footer]]
-name = "eventi"
-url = "event"
-[[Languages.it.menu.footer]]
-name = "borsa di studio"
-url = "scholarship"
-[[Languages.it.menu.footer]]
-name = "ricerca"
-url = "research"
-[[Languages.it.menu.main]]
-name = "Chi siamo"
-url = "about"
-weight = 1
-[[Languages.it.menu.main]]
-name = "Corsi"
-url = "course"
-weight = 2
-[[Languages.it.menu.main]]
-hasChildren = true
-name = "Pagine"
-weight = 3
-[[Languages.it.menu.main]]
-name = "insegnante"
-parent = "Pagine"
-url = "teacher"
-[[Languages.it.menu.main]]
-name = "avviso"
-parent = "Pagine"
-url = "notice"
-[[Languages.it.menu.main]]
-name = "Evento"
-parent = "Pagine"
-url = "event"
-[[Languages.it.menu.main]]
-name = "Borsa di studio"
-parent = "Pagine"
-url = "scholarship"
-[[Languages.it.menu.main]]
-name = "ricerca"
-parent = "Pagine"
-url = "research"
-[[Languages.it.menu.main]]
-name = "blog"
-url = "blog"
-weight = 4
-[[Languages.it.menu.main]]
-name = "Contatti"
-url = "contact"
-weight = 5
-
-
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
@@ -194,7 +129,68 @@ weight = 4
 name = "Contact"
 url = "contact"
 weight = 5
-
+[Languages.it]
+contentDir = "content/italian"
+copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
+home = "Casa"
+languageCode = "it-it"
+languageName = "It"
+weight = 1
+[[Languages.it.menu.footer]]
+name = "insegnante"
+url = "teacher"
+[[Languages.it.menu.footer]]
+name = "avviso"
+url = "notice"
+[[Languages.it.menu.footer]]
+name = "eventi"
+url = "event"
+[[Languages.it.menu.footer]]
+name = "borsa di studio"
+url = "scholarship"
+[[Languages.it.menu.footer]]
+name = "ricerca"
+url = "research"
+[[Languages.it.menu.main]]
+name = "Chi siamo"
+url = "about"
+weight = 1
+[[Languages.it.menu.main]]
+name = "Corsi"
+url = "course"
+weight = 2
+[[Languages.it.menu.main]]
+hasChildren = true
+name = "Pagine"
+weight = 3
+[[Languages.it.menu.main]]
+name = "insegnante"
+parent = "Pagine"
+url = "teacher"
+[[Languages.it.menu.main]]
+name = "avviso"
+parent = "Pagine"
+url = "notice"
+[[Languages.it.menu.main]]
+name = "Evento"
+parent = "Pagine"
+url = "event"
+[[Languages.it.menu.main]]
+name = "Borsa di studio"
+parent = "Pagine"
+url = "scholarship"
+[[Languages.it.menu.main]]
+name = "ricerca"
+parent = "Pagine"
+url = "research"
+[[Languages.it.menu.main]]
+name = "blog"
+url = "blog"
+weight = 4
+[[Languages.it.menu.main]]
+name = "Contatti"
+url = "contact"
+weight = 5
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
