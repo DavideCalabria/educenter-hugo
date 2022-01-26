@@ -87,8 +87,8 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Clicca per partecipare al nostro avanzato"
-  title : "Formazione in Spiritualità avanzata"
+  subtitle : "Clicca per partecipare al nostro corso avanzato"
+  title : "Formazione in spiritualità avanzata"
   button:
     enable : true
     label : "Unisciti ora"
