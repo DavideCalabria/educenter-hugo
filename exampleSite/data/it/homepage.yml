@@ -45,22 +45,22 @@ banner_feature:
     # feature item loop
     - name : "Notizie sulla borsa di studio "
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Attualmente non ci sono borse di studio."
 
     # feature item loop
     - name : "La nostra bacheca "
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Corsi di benessere psicofisico e spirituale."
 
     # feature item loop
     - name : "I nostri successi"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "I fratelli uniti nel nome del Signore."
 
     # feature item loop
     - name : "Ammissione ora "
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Fai domanda per i nostri corsi attraverso il modulo dei contatti."
 
 
 ############################## about ##################################
@@ -88,7 +88,7 @@ course:
 cta:
   enable : true
   subtitle : "Clicca per partecipare al nostro avanzato"
-  title : "Formazione in Advannce Networking"
+  title : "Formazione in Spiritualità avanzata"
   button:
     enable : true
     label : "Unisciti ora"
