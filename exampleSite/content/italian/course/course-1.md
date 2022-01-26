@@ -48,4 +48,4 @@ Un programma psicofisico divertente, per elevare la propria coscienza fino alla 
 
 ### Commissioni e finanziamenti 
 
-Il costo è di 10€ all'ora. Al momento non sono previsti finanziamenti, ma è possibile per i fratelli in difficoltà economiche chiedere uno sconto attraverso la domanda.
+Al momento non sono previsti finanziamenti, ma è possibile per i fratelli in difficoltà economiche chiedere uno sconto attraverso la domanda.
