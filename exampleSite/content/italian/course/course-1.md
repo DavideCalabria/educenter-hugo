@@ -1,5 +1,5 @@
 ---
-title: "Fotografia"
+title: "One Yoga"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -9,17 +9,17 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
-category: "Photography"
+category: "Yoga"
 # teacher
-teacher: "Clark Malik"
+teacher: "Davide Calabria"
 # duration
-duration: "06 mesi"
+duration: "01 mesi"
 # weekly
-weekly: "03 ore"
+weekly: "02 ore"
 # course fee
-fee: "Da: 699€"
+fee: "Da: 80€"
 # apply url
-apply_url : "#"
+apply_url : "https://rastedu.netlify.app/it/contact/"
 # type
 type: "course"
 ---
