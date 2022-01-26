@@ -15,9 +15,9 @@ teacher: "Davide Calabria"
 # duration
 duration: "04 mesi"
 # weekly
-weekly: "02 ore"
+weekly: "01 ore"
 # course fee
-fee: "Da: 80€"
+fee: "Da: 180€"
 # apply url
 apply_url : "https://rastedu.netlify.app/it/contact/"
 # type
