@@ -192,8 +192,8 @@ name = "Contatti"
 url = "contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+address = "Vicolo quarterazzo,5 - 25037 Pontoglio (Bs) - Italy"
+author = "Davide Calabria"
 contact_form_action = "#"
 description = "Rastafarian educenter"
 email = "info@davidecalabria.com"
