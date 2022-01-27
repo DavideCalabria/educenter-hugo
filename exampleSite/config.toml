@@ -1,4 +1,4 @@
-baseURL = "https://rastedu.netlify.app/"
+baseURL = "https://rastedu.netlify.app/it"
 disableLanguages = ["fr"]
 disqusShortname = "educenter"
 paginate = "6"
@@ -11,7 +11,7 @@ copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefi
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-weight = 2
+weight = 1
 [[Languages.en.menu.footer]]
 name = "teacher"
 url = "teacher"
@@ -135,7 +135,7 @@ copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefi
 home = "Home"
 languageCode = "it-it"
 languageName = "It"
-weight = 1
+weight = 2
 [[Languages.it.menu.footer]]
 name = "insegnante"
 url = "teacher"
@@ -207,8 +207,8 @@ expire_days = 2
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "45.570852857266"
+map_longitude = "9.852419856081298"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
