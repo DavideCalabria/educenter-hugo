@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Grazie al potere spirituale accumulato in 4000 mila anni di storia, siamo alla vigilia di una grande rivoluzione che porterà finalmente l'umanità a godersi questo meraviglioso pianeta."
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/course-1.png"
 # taxonomy
 category: "Yoga"
 # teacher
