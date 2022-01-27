@@ -1,25 +1,25 @@
 ---
-title: "Matematica"
+title: "Corso pratico di Taiji Qi Gong"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "L'arte del movimento e respirazione cinese."
 # course thumbnail
 image: "images/courses/course-2.jpg"
 # taxonomy
-category: "Mathematics"
+category: "Wellness"
 # teacher
-teacher: "Jacke Mastio"
+teacher: "Davide Calabria"
 # duration
-duration : "06 Mesi"
+duration : "02 Mesi"
 # weekly
-weekly : "03 ore"
+weekly : "02 ore"
 # course fee
-fee : "Da: 699€"
+fee : "Da: 160€"
 # apply url
-apply_url : "#"
+apply_url : "https://rastedu.netlify.app/it/contact/"
 # type
 type: "course"
 ---
@@ -27,44 +27,24 @@ type: "course"
 
 ### A propositi del corso
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+usare e scoprire il proprio corpo come veicolo di esperienze ed espressioni. Le lezioni saranno concentrate sull'apprendimento dell'antica pratica taoista "I MOVIMENTI DEI CINQUE ANIMALI" in dodici sequenze. 
+Una serie di semplici lenti ed armoniosi movimenti baasato sul principio filofofico cinese dello YIN-YANG.
+
 
 ### Requisiti
 
-
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+* Praticabile da tutti.
 
 
 ### Come fare la domanda
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
+* Clicca sul pulsante “Canditati ora” ed invia una mail dal modulo di contatto.
+* Specifica l’orario di tuo gradimento per le lezioni.
+* Specifica se preferisci la lezione online o di persona.
+* Ti risponderemo nel più breve tempo possibile
 
 ### Commissioni e finanziamenti 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Al momento non sono previsti finanziamenti, ma è possibile per i fratelli in difficoltà economiche chiedere uno sconto attraverso la domanda.
+
+
