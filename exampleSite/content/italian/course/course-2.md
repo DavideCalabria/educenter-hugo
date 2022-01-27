@@ -28,7 +28,7 @@ type: "course"
 ### A propositi del corso
 
 usare e scoprire il proprio corpo come veicolo di esperienze ed espressioni. Le lezioni saranno concentrate sull'apprendimento dell'antica pratica taoista "I MOVIMENTI DEI CINQUE ANIMALI" in dodici sequenze. 
-Una serie di semplici lenti ed armoniosi movimenti baasato sul principio filofofico cinese dello YIN-YANG.
+Una serie di semplici lenti ed armoniosi movimenti baasato sul principio filofofico cinese dello YIN-YANG. Come coordinare il proprio corpo per il benessere psicofisico, per curare i più comuni disturbi quotidiani, contro lo stress e per imparare a rilassarsi completamente, migliorando la forza di volontà ed apprendendo l'autocontrollo. E molti altri benefici per la salute fisico-mentale, che hanno fatto guadagnare a queste pratiche Taoiste (Taji) l'appellativo di ginnastica della lunga vita.
 
 
 ### Requisiti
