@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "SBADIGLIARE è BELLISSIMO! Basta sbadigliare, tutto qui. All'inizio si fa un pò di fatica, ma l'approcio con qualche finto sbadiglio crea l'arrivo per quelli veri e profondi."
 # course thumbnail
-image: "images/courses/course-3.jpg"
+image: "images/courses/course-3.png"
 # taxonomy
 category: "Artificial Intelligence"
 # teacher
