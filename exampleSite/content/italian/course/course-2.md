@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "L'arte del movimento e respirazione cinese."
 # course thumbnail
-image: "images/courses/course-2.jpg"
+image: "images/courses/course-2.png"
 # taxonomy
 category: "Wellness"
 # teacher
