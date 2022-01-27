@@ -39,7 +39,7 @@ slider:
 
 ############################### Banner feature ###############################
 banner_feature:
-  enable : false
+  enable : true
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
@@ -50,12 +50,12 @@ banner_feature:
     # feature item loop
     - name : "La nostra bacheca "
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Corsi di benessere psicofisico e spirituale."
+      content : "Corsi per il benessere psicofisico e spirituale. Le antiche saggezze del mondo a portata di mouse."
 
     # feature item loop
     - name : "I nostri successi"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "I fratelli uniti nel nome del Signore."
+      content : "Per noi il successo è vedere i fratelli e le sorelle uniti nel nome del Signore."
 
     # feature item loop
     - name : "Ammissione ora "
@@ -68,7 +68,7 @@ about:
   enable : true
   title : "Circa RasEduCenter"
   image : "images/about/about-us.jpg"
-  content : "La spiritualità insegnata dai Rasta, secondo un approcio che va oltre la religione, unendo la sapienza di vari popoli ed epoche. "
+  content : "La spiritualità insegnata dai Rasta, secondo un approcio che va oltre la religione, unendo la sapienza di vari popoli ed epoche. Grazie ad un semplice approccio, le sapienze millenaire sono finalmente a portata di mano."
   button:
     enable : true
     label : "Ulteriori informazioni"
@@ -94,14 +94,10 @@ cta:
 
 ######################## Success story #############################
 success_story:
-  enable : false
+  enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Storie di successo"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  content : "Sono innumerevoli le storie di successo tra i Rasta. Spesso si tratta di un successo artistico, a permettere la divulgazione dei concetti rasta attraverso, per esempio, la musica."
   # video link
   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
