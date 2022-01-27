@@ -1,5 +1,5 @@
 ---
-title: "Alex Rook"
+title: "Davide Calabria"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -10,43 +10,43 @@ image: "images/teachers/teacher-2.jpg"
 # course
 course: "Vlogging"
 # biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
+bio: "Nato nel 1973, ha intrappreso vari percosi spirituali fin dai primi vent'anni, fino a completare il percorso diventando Rasta nel 2016."
 # interest
 interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
 contact:
   # contact item loop
-  - name : "clarkmalik@email.com"
+  - name : "info@davidecalabria.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
     link : "mailto:clarkmalik@email.com"
 
   # contact item loop
-  - name : "+12 034 5876"
+  - name : "+39 3343568138"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
+    link : "tel:+39 3343568138"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Davide Calabria"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://www.facebook.com/ras.davide.calabria"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Davide Calabria"
     icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://twitter.com/RasDavCal"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Davide Calabria"
     icon : "ti-skype" # icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "davide.calabria"
 
   # contact item loop
-  - name : "clarkmalik.com"
+  - name : "davidecalabria.com"
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "1313 Boulevard Cremazie,Quebec"
+  - name : "Vicolo quarterazzo 5, 25037 Pontoglio (Brescia)- Italia"
     icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
     link : "#"
 
@@ -56,9 +56,4 @@ type: "teacher"
 
 ### A mio proposito
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
-
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.
+Mi chiamo Davide Calabria ...
