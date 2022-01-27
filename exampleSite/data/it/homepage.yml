@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Il tuo futuro luminoso è la nostra missione"
-      content : "Sviati dal labiritnto del sitrema, con i nostri corsi per il benessere psicofisico"
+      content : "Sviati dal labiritnto del Sistema (Babilonia), con i nostri corsi per il benessere psicofisico"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
