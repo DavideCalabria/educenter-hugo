@@ -5,68 +5,7 @@ paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
 title = "Rastafarian Educenter"
-[Languages.en]
-contentDir = "content/english"
-copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
-home = "Home"
-languageCode = "en-us"
-languageName = "En"
-weight = 2
-[[Languages.en.menu.footer]]
-name = "teacher"
-url = "teacher"
-[[Languages.en.menu.footer]]
-name = "notice"
-url = "notice"
-[[Languages.en.menu.footer]]
-name = "event"
-url = "event"
-[[Languages.en.menu.footer]]
-name = "scholarship"
-url = "scholarship"
-[[Languages.en.menu.footer]]
-name = "research"
-url = "research"
-[[Languages.en.menu.main]]
-name = "About"
-url = "about"
-weight = 1
-[[Languages.en.menu.main]]
-name = "course"
-url = "course"
-weight = 2
-[[Languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
-[[Languages.en.menu.main]]
-name = "teacher"
-parent = "Pages"
-url = "teacher"
-[[Languages.en.menu.main]]
-name = "notice"
-parent = "Pages"
-url = "notice"
-[[Languages.en.menu.main]]
-name = "event"
-parent = "Pages"
-url = "event"
-[[Languages.en.menu.main]]
-name = "scholarship"
-parent = "Pages"
-url = "scholarship"
-[[Languages.en.menu.main]]
-name = "research"
-parent = "Pages"
-url = "research"
-[[Languages.en.menu.main]]
-name = "blog"
-url = "blog"
-weight = 4
-[[Languages.en.menu.main]]
-name = "Contact"
-url = "contact"
-weight = 5
+
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
@@ -191,6 +130,71 @@ weight = 4
 name = "Contatti"
 url = "contact"
 weight = 5
+
+[Languages.en]
+contentDir = "content/english"
+copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 2
+[[Languages.en.menu.footer]]
+name = "teacher"
+url = "teacher"
+[[Languages.en.menu.footer]]
+name = "notice"
+url = "notice"
+[[Languages.en.menu.footer]]
+name = "event"
+url = "event"
+[[Languages.en.menu.footer]]
+name = "scholarship"
+url = "scholarship"
+[[Languages.en.menu.footer]]
+name = "research"
+url = "research"
+[[Languages.en.menu.main]]
+name = "About"
+url = "about"
+weight = 1
+[[Languages.en.menu.main]]
+name = "course"
+url = "course"
+weight = 2
+[[Languages.en.menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 3
+[[Languages.en.menu.main]]
+name = "teacher"
+parent = "Pages"
+url = "teacher"
+[[Languages.en.menu.main]]
+name = "notice"
+parent = "Pages"
+url = "notice"
+[[Languages.en.menu.main]]
+name = "event"
+parent = "Pages"
+url = "event"
+[[Languages.en.menu.main]]
+name = "scholarship"
+parent = "Pages"
+url = "scholarship"
+[[Languages.en.menu.main]]
+name = "research"
+parent = "Pages"
+url = "research"
+[[Languages.en.menu.main]]
+name = "blog"
+url = "blog"
+weight = 4
+[[Languages.en.menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
+
+
 [params]
 address = "Vicolo quarterazzo,5 - 25037 Pontoglio (Bs) - Italy"
 author = "Davide Calabria"
