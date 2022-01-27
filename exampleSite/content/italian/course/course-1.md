@@ -15,7 +15,7 @@ teacher: "Davide Calabria"
 # duration
 duration: "04 mesi"
 # weekly
-weekly: "01 ore"
+weekly: "01 ora"
 # course fee
 fee: "Da: 180€"
 # apply url
