@@ -4,13 +4,13 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Maestro di Yoga One e Taiji Qi Gong"
 # teacher portrait
 image: "images/teachers/teacher-2.jpg"
 # course
-course: "Vlogging"
+course: "Yoga One"
 # biography
-bio: "Nato nel 1973, ha intrappreso vari percosi spirituali fin dai primi vent'anni, fino a completare il percorso diventando Rasta nel 2016."
+bio: "Nato nel 1973, ha intrappreso vari percosi spirituali fin dai primi vent'anni, completando il percorso diventando Rasta nel 2016."
 # interest
 interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
